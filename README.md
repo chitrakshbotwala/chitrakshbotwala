@@ -1,6 +1,6 @@
 ### Hi there, I'm Chitraksh Maheshwari - aka Chitrakshbotwala 👋
 
-[![Website] (https://covd19tracker-india.web.app/)
+[![Website] (https://covd19tracker-india.web.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chitraksh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ChitrakshMahes1)
 
 ## I'm a  Developer, and Gamer!!
