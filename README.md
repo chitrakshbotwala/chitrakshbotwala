@@ -5,7 +5,7 @@
 
 ## I'm a  Developer, and Gamer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: make more things to help people
 - ⚡ Fun fact: I love to game and play guitar 
