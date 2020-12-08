@@ -44,7 +44,7 @@
 <br />
 <br />
 
-----
+
 
 
 [website]: https://covd19tracker-india.web.app/
