@@ -48,7 +48,7 @@
 
 
 [website]: https://covd19tracker-india.web.app/
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Chitrakshmahes1
 [youtube]: https://www.youtube.com/channel/UCytNdPBQFFGIIMRlQAJVLXQ?view_as=subscriber
 [instagram]: https://instagram.com/Chitraksh2705
 
