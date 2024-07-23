@@ -11,3 +11,9 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/937356049361547354)](https://discord.com/users/937356049361547354)
 
+
+
+
+
+<img align="left" src="https://profile-counter.glitch.me/chitrakshbotwala/count.svg">
+
