@@ -1,7 +1,4 @@
 <div align="center">
-<a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hi%20I%20am%20Chitraksh%20&l0=000000&bg=000000">
-</a>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -9,11 +6,4 @@
   </a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/937356049361547354)](https://discord.com/users/937356049361547354)
-
-
-
-
-
-<img align="left" src="https://profile-counter.glitch.me/chitrakshbotwala/count.svg">
 
